@@ -2,3 +2,8 @@
 This file should be tracked and include some cool messages but I guess this should do*/
 #include <stdio.h>
 // something something
+#define SUCCESS printf("done.")
+
+void main() {
+	return SUCCESS;
+}
